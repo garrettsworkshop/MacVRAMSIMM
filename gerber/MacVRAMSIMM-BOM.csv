@@ -1,6 +1,0 @@
-Reference, Quantity, Value, Footprint, Datasheet
-C1 C2 C3 C4 C5 C6 ,6,"2u2","stdpads:C_0805",""
-FID1 FID2 FID3 FID4 ,4,"Fiducial","stdpads:Fiducial",""
-H1 H2 H3 H4 ,4," ","stdpads:PasteHole_1.1mm_PTH",""
-J1 ,1,"VRAM","stdpads:MacVRAMSIMM_Edge",""
-U1 U2 ,2,"42C8255","stdpads:SOJ-40-400mil-Skinny",""
