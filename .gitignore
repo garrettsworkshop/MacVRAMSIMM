@@ -14,6 +14,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+256kB-2chip-SOJ/MacVRAMSIMM-backups/*
+512kB-2chip-SOJ/MacVRAMSIMM-backups/*
 
 # Netlist files (exported from Eeschema)
 *.net
